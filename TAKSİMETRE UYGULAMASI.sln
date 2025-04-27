@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAKSİMETRE UYGULAMASI", "TAKSİMETRE UYGULAMASI\TAKSİMETRE UYGULAMASI.csproj", "{89FCB4F5-3EF4-488F-A7BF-51F3846AD37F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89FCB4F5-3EF4-488F-A7BF-51F3846AD37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FCB4F5-3EF4-488F-A7BF-51F3846AD37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FCB4F5-3EF4-488F-A7BF-51F3846AD37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FCB4F5-3EF4-488F-A7BF-51F3846AD37F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82CB34D8-50BD-4E31-8A55-129B0C3A3C58}
+	EndGlobalSection
+EndGlobal
